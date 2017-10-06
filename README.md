@@ -1,6 +1,6 @@
-# Project Title
+# Bulma-Sass-Setup
 
-A simple Bulma-Sass Project Setup for customizing variables and css, and writing your own sass.
+A Simple Bulma-Sass Project Setup for Customizing Variables and CSS, and Writing Your Own SASS.
 
 ## Getting Started
 
@@ -13,7 +13,6 @@ Requires SASS
 ## Built With
 
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
-
 
 ## Authors
 
