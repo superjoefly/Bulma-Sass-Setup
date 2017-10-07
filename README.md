@@ -14,10 +14,10 @@ Requires SASS
 
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 
-## Authors
+## Repo Author
 
 * **Joseph Atwood** - *Initial work* - [SJF Developments](http://joefly.site)
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](https://github.com/superjoefly/Bulma-Sass-Setup/LICENSE)
