@@ -20,4 +20,4 @@ Requires SASS
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/superjoefly/Bulma-Sass-Setup/LICENSE)
+This project is licensed under the MIT License
